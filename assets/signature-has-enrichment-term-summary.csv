@@ -1,0 +1,51 @@
+signature,go_cat,term,logpval_sum
+0,CC,Endoplasmic reticulum,15.979101208135424
+0,CC,Nuclear outer membrane endoplasmic reticulum membrane network,11.82025189388257
+0,CC,Organelle subcompartment,11.301601845124642
+0,CC,Intrinsic component of endoplasmic reticulum membrane,3.494271602228055
+0,CC,Intrinsic component of organelle membrane,3.2736304310858393
+1,CC,Ribonucleoprotein complex,21.912709524411262
+1,CC,Spliceosomal complex,21.417115186020897
+1,MF,Mrna binding,17.997483140016126
+1,CC,Catalytic step 2 spliceosome,14.931484556119027
+1,MF,Rna binding,14.161701581570227
+2,CC,Azurophil granule,13.020228832863976
+2,CC,Secretory granule,12.506734153729496
+2,CC,Secretory vesicle,11.57039335630897
+2,CC,Vacuolar lumen,11.558562560097254
+2,CC,Vacuole,10.679674522295858
+3,CC,Proteasome complex,20.287306452845304
+3,CC,Endopeptidase complex,18.646683066377975
+3,CC,Peptidase complex,17.7403153696248
+3,CC,Proteasome core complex,12.734349991302503
+3,CC,Intracellular protein containing complex,11.89329816478065
+4,CC,Organelle inner membrane,15.30185347432426
+4,CC,Mitochondrion,14.943270045173216
+4,CC,Mitochondrial protein containing complex,14.537532515311057
+4,CC,Mitochondrial envelope,12.92207181532344
+4,CC,Inner mitochondrial membrane protein complex,11.31003783608492
+5,MF,Rna binding,21.61854228182974
+5,MF,Mrna binding,5.370854176594998
+5,MF,Single stranded dna binding,3.828469880790141
+5,CC,Nucleolus,3.406805464851709
+5,CC,Nuclear periphery,3.2935111095407494
+6,MF,Active transmembrane transporter activity,9.32345252648079
+6,MF,Active ion transmembrane transporter activity,9.258024143517453
+6,MF,Secondary active transmembrane transporter activity,8.224610061631854
+6,CC,Intrinsic component of organelle membrane,7.840520358189149
+6,MF,Ion transmembrane transporter activity,7.790123656341442
+7,CC,Polymeric cytoskeletal fiber,22.255496834737492
+7,CC,Supramolecular polymer,19.465591479511623
+7,MF,Structural constituent of cytoskeleton,17.45234106537761
+7,CC,Microtubule,15.841155408525625
+7,CC,Supramolecular complex,15.176661568503125
+8,CC,Endoplasmic reticulum lumen,12.577544179124004
+8,MF,Oxidoreductase activity acting on paired donors with incorporation or reduction of molecular oxygen,8.65080482248074
+8,MF,2 oxoglutarate dependent dioxygenase activity,8.124853407166537
+8,MF,Organic acid binding,8.021559101459024
+8,MF,Carboxylic acid binding,7.766647605920898
+9,CC,Envelope,6.974960913326562
+9,CC,Mitochondrial envelope,6.972817440000252
+9,CC,Mitochondrion,4.965372137841015
+9,CC,Endoplasmic reticulum tubular network,4.940888506248044
+9,CC,Outer membrane,4.407983138600142
